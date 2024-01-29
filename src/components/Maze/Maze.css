@@ -1,0 +1,14 @@
+tr,
+td {
+	border: 0px solid black !important;
+	height: 20px !important;
+	width: 20px !important;
+	max-height: 20px !important;
+	max-width: 20px !important;
+	border-radius: 0px;
+	padding: 0% !important;
+}
+table {
+	border: 0px solid black;
+	width: fit-content;
+}

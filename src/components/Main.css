@@ -1,0 +1,20 @@
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Audiowide", sans-serif;
+  color: white;
+}
+
+@font-face {
+  font-family: 'Crazy Gradient';
+  font-style: normal;
+  /* font-weight: 400; */
+  src: local('Crazy Gradient'), url('https://fonts.cdnfonts.com/s/59591/CrazyGradient.woff') format('woff');
+}
+
+.title-div{
+  font-family: 'Maiandra GD', sans-serif;
+  /* word-spacing: 100vw; */
+  color: #00FFFF;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
